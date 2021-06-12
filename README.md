@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kyaw Thu aka Evan
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me evanch98@gmail.com
 
 <!---
