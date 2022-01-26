@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyaw Thu aka Evan.
 - 👀 I’m interested in Data Science and Software Engineering.
-- 🌱 I’m currently studying Computer Science at the University of the People.
+- 🌱 I’m currently studying Computer Science at the <span style="color:purple;">University of the People</span>.
 - 📫 How to reach me kyawthuch98@gmail.com
 
 <!---
