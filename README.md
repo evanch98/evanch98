@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kyaw Thu aka Evan.
-- 👀 I’m interested in Data Science and Software Engineering.
+- 👀 I’m interested in Mobile App Development and Game Development.
 - 🌱 I’m currently studying Computer Science at the University of the People.
 - 📫 How to reach me kyawthuch98@gmail.com
 
