@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
 - 👋 Hi, I’m Kyaw Thu aka Evan.
 - 👀 I’m interested in Mobile App Development and Game Development.
 - 🌱 I’m currently studying Computer Science at the University of the People.
