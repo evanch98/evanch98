@@ -30,6 +30,8 @@ I’m a computer science student studying at the University of the People.
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original-wordmark.svg" title="Appwrite" alt="Appwrite" width="40" height="40"/>&nbsp;
@@ -42,7 +44,7 @@ I’m a computer science student studying at the University of the People.
 ---
 
 ### 🔥 My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evanch98&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evanch98&theme=dark&background=000000)](https://git.io/streak-stats)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanch98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
