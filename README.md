@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/kyaw-thu-0b3956212/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
     </a>
+    <a href="https://www.credly.com/users/kyaw-thu/badges">
+      <img src="https://img.shields.io/badge/Credly-darkGreen?logo=credly&logoColor=white&style=for-the-badge" alt="Credly Badge">
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=evanch98&style=flat-square&color=blue" alt=""/>
   <h1>
