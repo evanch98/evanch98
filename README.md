@@ -42,7 +42,8 @@ I’m a computer science student studying at the University of the People.
 ---
 
 ### 🔥 My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evanch98&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evanch98&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanch98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 evanch98/evanch98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
