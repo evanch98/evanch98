@@ -18,7 +18,7 @@
 ### 👨‍💻 About Me
 I’m a computer science student studying at the University of the People.
 - 👋 Hi, I’m a computer science student studying at the University of the People.
-- 👀 I’m interested in Mobile App Development and Game Development.
+- 👀 I’m interested in Front-end Development and Mobile App Development.
 - :zap: In my free time, I solve problems on CodeChef and read tech articles.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kyawthu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyaw-thu-0b3956212/)
 ---
