@@ -38,7 +38,7 @@ I'm an aspiring front-end web developer!
 
 ---
 
-### 🧱 Framworks and Libraries:
+### 🧱 Frameworks and Libraries:
 <div>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
