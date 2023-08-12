@@ -16,7 +16,7 @@
 </div>
 
 ### 👨‍💻 About Me
-I'm an aspiring front-end web developer with willingness to learn and explore.
+I'm an aspiring front-end web developer with willingness to explore and learn.
 - 👋 Hi, I’m a computer science student studying at the University of the People.
 - 👀 I’m interested in Front-end Development and Mobile App Development.
 - :zap: In my free time, I solve problems on CodeChef and read tech articles.
