@@ -64,6 +64,13 @@ I'm an aspiring front-end web developer with willingness to explore and learn.
 
 ---
 
+### ⌨️ Projects:
+<div>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanch98&repo=ecommerce-admin-nextjs)](https://github.com/evanch98/ecommerce-admin-nextjs)
+</div>
+
+---
+
 ### 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evanch98&theme=dark&background=000000)](https://git.io/streak-stats)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanch98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
