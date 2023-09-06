@@ -71,7 +71,8 @@ I'm an aspiring front-end web developer with willingness to explore and learn.
 
 ### 🔥 My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evanch98&theme=dark&background=000000)](https://git.io/streak-stats)<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanch98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanch98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanch98&show_icons=true&theme=radical)
 
 <!---
 evanch98/evanch98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
