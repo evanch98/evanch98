@@ -11,7 +11,6 @@
       <img src="https://img.shields.io/badge/website-white?logo=vercel&logoColor=black&style=for-the-badge" alt="Website Badge">
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=evanch98&style=flat-square&color=blue" alt=""/>
   <h1>
     hello
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -19,7 +18,7 @@
 </div>
 
 ### 👨‍💻 About Me
-I'm an aspiring front-end web developer with willingness to explore and learn.
+I'm an aspiring front-end web developer with a willingness to explore and learn.
 - 👋 Hi, I’m a computer science student studying at the University of the People.
 - 👀 I’m interested in Front-end Development and Mobile App Development.
 - :zap: In my free time, I solve problems on CodeChef and read tech articles.
