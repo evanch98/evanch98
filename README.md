@@ -43,9 +43,6 @@ I'm an aspiring front-end web developer with a willingness to explore and learn.
 <div>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/BuilderIO/qwik/4b72570ce87fec58516b94ac1ecbfde103505705/packages/docs/public/logos/qwik-logo.svg" title="Qwik" alt="Qwik" width="40" height="40"/>&nbsp;
-  <img src="https://logosandtypes.com/wp-content/uploads/2023/03/astro-framework.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </div>
