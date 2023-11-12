@@ -31,7 +31,6 @@ I'm an aspiring front-end web developer with a willingness to explore and learn.
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
