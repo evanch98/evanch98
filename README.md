@@ -7,7 +7,7 @@
     <a href="https://www.credly.com/users/kyaw-thu/badges">
       <img src="https://img.shields.io/badge/Credly-red?logo=credly&logoColor=white&style=for-the-badge" alt="Credly Badge">
     </a>
-    <a href="https://portfolio-nextjs-self-ten.vercel.app/">
+    <a href="https://portfolio-website-lovat-ten.vercel.app/">
       <img src="https://img.shields.io/badge/website-white?logo=vercel&logoColor=black&style=for-the-badge" alt="Website Badge">
     </a>
   </div>
