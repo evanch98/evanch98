@@ -58,7 +58,8 @@ I'm a front-end web developer with a willingness to explore and learn.
 ---
 
 ### ⌨️ Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanch98&repo=ecommerce-admin-nextjs)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanch98&repo=miro-clone-nextjs)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanch98&repo=notion-clone-nextjs)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
