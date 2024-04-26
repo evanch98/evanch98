@@ -1,31 +1,30 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+  <h1>
+    Hi there,
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Kyaw Thu.
+  </h1>
   <div id="badges">
     <a href="https://www.linkedin.com/in/kyaw-thu-0b3956212/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
     </a>
-    <a href="https://www.credly.com/users/kyaw-thu/badges">
-      <img src="https://img.shields.io/badge/Credly-red?logo=credly&logoColor=white&style=for-the-badge" alt="Credly Badge">
+    <a href="https://leetcode.com/u/kyawthuch98/">
+      <img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="Leetcode Badge">
     </a>
     <a href="https://portfolio-website-lovat-ten.vercel.app/">
       <img src="https://img.shields.io/badge/website-white?logo=vercel&logoColor=black&style=for-the-badge" alt="Website Badge">
     </a>
   </div>
-  <h1>
-    hello
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
 </div>
 
 ### 👨‍💻 About Me
 I'm a front-end developer with a willingness to explore and learn.
-- 👋 Hi, I’m a computer science student studying at the University of the People.
+- 🌏 I'm based in Taiwan.
 - 👀 I’m interested in Front-end Development.
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kyawthu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyaw-thu-0b3956212/)
----
 
-### 🛠️ Languages and Tools:
+## Skills:
 <div>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -40,18 +39,14 @@ I'm a front-end developer with a willingness to explore and learn.
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### ⌨️ Projects:
+## Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanch98&repo=miro-clone-nextjs)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanch98&repo=notion-clone-nextjs)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### 🔥 My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evanch98&theme=dark&background=000000)](https://git.io/streak-stats)<br><br>
+## My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanch98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanch98&show_icons=true&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanch98&show_icons=true&theme=vision-friendly-dark)<br><br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evanch98&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
 evanch98/evanch98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
