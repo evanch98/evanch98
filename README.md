@@ -17,12 +17,12 @@
   </div>
 </div>
 
-### 👨‍💻 About Me
-I'm a front-end developer with a willingness to explore and learn.
+## 👨‍💻 About Me
+I'm a frontend developer with a willingness to explore and learn.
 - 🌏 I'm based in Taiwan.
-- 👀 I’m interested in Front-end Development.
+- 🧠  I'm learning something new every day.
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kyawthu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyaw-thu-0b3956212/)
+- 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-kyawthu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyaw-thu-0b3956212/)
 
 ## Skills:
 <div>
@@ -42,11 +42,6 @@ I'm a front-end developer with a willingness to explore and learn.
 ## Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanch98&repo=miro-clone-nextjs)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=evanch98&repo=notion-clone-nextjs)](https://github.com/anuraghazra/github-readme-stats)
-
-## My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanch98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanch98&show_icons=true&theme=vision-friendly-dark)<br><br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evanch98&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
 evanch98/evanch98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
