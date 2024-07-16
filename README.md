@@ -8,8 +8,8 @@
     <a href="https://www.linkedin.com/in/kyaw-thu-0b3956212/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
     </a>
-    <a href="https://leetcode.com/u/kyawthuch98/">
-      <img src="https://img.shields.io/badge/Leetcode-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="Leetcode Badge">
+    <a href="https://medium.com/@evanch98">
+      <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge">
     </a>
     <a href="https://portfolio-website-lovat-ten.vercel.app/">
       <img src="https://img.shields.io/badge/website-white?logo=vercel&logoColor=black&style=for-the-badge" alt="Website Badge">
