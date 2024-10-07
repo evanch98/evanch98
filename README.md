@@ -11,7 +11,7 @@
     <a href="https://medium.com/@evanch98">
       <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge">
     </a>
-    <a href="https://portfolio-website-lovat-ten.vercel.app/">
+    <a href="https://kyawthu.com">
       <img src="https://img.shields.io/badge/website-white?logo=vercel&logoColor=black&style=for-the-badge" alt="Website Badge">
     </a>
   </div>
