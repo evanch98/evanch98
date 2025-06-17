@@ -22,7 +22,7 @@ I'm a frontend developer with a willingness to explore and learn.
 - 🌏 I'm based in Taiwan.
 - 🧠  I'm learning something new every day.
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
-- 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-kyawthu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyaw-thu-0b3956212/)
+- 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-kyawthu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyaw-thu/)
 
 ## Skills:
 <div>
