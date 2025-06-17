@@ -5,7 +5,7 @@
     I'm Kyaw Thu.
   </h1>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/kyaw-thu-0b3956212/">
+    <a href="https://www.linkedin.com/in/kyaw-thu/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
     </a>
     <a href="https://medium.com/@evanch98">
